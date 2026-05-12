@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /drive/
+Disallow: /drive/index.html
